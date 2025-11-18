@@ -23,10 +23,10 @@
 
 ## 4. Evolusi Nama JavaScript
 **Apa nama awal dari JavaScript sebelum menjadi nama saat ini?**  
-- a. Mocha  [✅]
+- a. Mocha  [✅❌] 
 - b. LiveScript  
 - c. JavaScript  
-- d. Mocha dan LiveScript
+- d. Mocha dan LiveScript [✔]
 
 ## 5. Adopsi JavaScript oleh Browser
 **Pada tahun berapa JavaScript diadopsi oleh Netscape Navigator dan Internet Explorer?**  
@@ -72,8 +72,8 @@
 
 ## 11. Langkah Kerja JavaScript - Event Loop
 **Bagaimana JavaScript menangani event secara asinkron tanpa memblokir eksekusi kode lainnya?**  
-- a. Menggunakan DOM  [✅]
-- b. Melalui Event Loop  
+- a. Menggunakan DOM  [✅❌]
+- b. Melalui Event Loop  [✔]
 - c. Dengan memuat ulang halaman  
 - d. Melalui Callback
 
